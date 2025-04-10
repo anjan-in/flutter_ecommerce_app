@@ -65,7 +65,7 @@ flutter pub get
 Feel free to fork this repository and submit pull requests. Any contributions are welcome!
 
 ## 📜 License
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**
 
 ---
 📌 *Developed with ❤️ using Flutter*
