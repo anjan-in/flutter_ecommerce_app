@@ -44,8 +44,8 @@ flutter pub get
 ## 🔧 Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/flutter-ecommerce-app.git
-   cd flutter-ecommerce-app
+   git clone https://github.com/yourusername/flutter_ecommerce_app.git
+   cd flutter_ecommerce_app
    ```
 2. **Install dependencies:**
    ```sh
